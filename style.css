@@ -1,6 +1,12 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
+}
+.navbar {
+    font-size: 2rem;
+}
+.navbar div a {
+    color: #4aef09;
 }
 
 /* hero background image */
