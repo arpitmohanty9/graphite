@@ -1,2 +1,0 @@
-# graphite
-"rock"y experiences
